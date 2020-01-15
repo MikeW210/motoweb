@@ -1,0 +1,11 @@
+$db = new mysqli("localhost", "root", "","motodb") or die ("Błąd");
+            $sql = "SELECT * from forum ";
+            $result= $db->query($sql);
+            if($result-> num_rows > 0 ){
+                while($row=$result->fetch_assoc()){
+                    
+                    $date = $row['forum_uploaded_on'];
+                    $forum_id = $row['forum_id'];
+                    $title = $row['title'];
+                    $intro = $row['intro'];
+                    $desc = $row['description'];

@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cd2728ac-27ec-4099-bbbe-c194e15d6f08" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>połączenie</find>
+      <find>navbar-da</find>
+      <find>logo</find>
+      <find>nav</find>
+      <find>moto</find>
+      <find>spo</find>
+    </findStrings>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectId" id="1StKk6xqwYT3iI7zUGRReFyoQl5" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs" />
+      <recent name="C:\xampp\htdocs\moto" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\moto\css" />
+      <recent name="C:\xampp\htdocs\moto" />
+      <recent name="C:\xampp\htdocs\moto\php" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="enduro.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/moto/php/enduro.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.enduro.php" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cd2728ac-27ec-4099-bbbe-c194e15d6f08" name="Default Changelist" comment="" />
+      <created>1543761702624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543761702624</updated>
+      <workItem from="1543761703704" duration="5958000" />
+      <workItem from="1543770183285" duration="2532000" />
+      <workItem from="1543784152341" duration="1215000" />
+      <workItem from="1543844404846" duration="12368000" />
+      <workItem from="1543861597906" duration="638000" />
+      <workItem from="1544000161983" duration="3218000" />
+      <workItem from="1544092821443" duration="5496000" />
+      <workItem from="1544098454200" duration="3805000" />
+      <workItem from="1544359243858" duration="10894000" />
+      <workItem from="1544612666720" duration="10185000" />
+      <workItem from="1544735879517" duration="1560000" />
+      <workItem from="1544737523327" duration="2390000" />
+      <workItem from="1544744626788" duration="1772000" />
+      <workItem from="1544789091119" duration="599000" />
+      <workItem from="1545002300553" duration="252000" />
+      <workItem from="1545210090201" duration="9170000" />
+      <workItem from="1545328336514" duration="1407000" />
+      <workItem from="1545472587736" duration="9027000" />
+      <workItem from="1545485252757" duration="3447000" />
+      <workItem from="1545508106217" duration="3069000" />
+      <workItem from="1545735913581" duration="33829000" />
+      <workItem from="1546509044883" duration="180000" />
+      <workItem from="1546509276254" duration="48790000" />
+      <workItem from="1546987196711" duration="326000" />
+      <workItem from="1547544559339" duration="674000" />
+      <workItem from="1550055655096" duration="434000" />
+      <workItem from="1572377596016" duration="40000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>

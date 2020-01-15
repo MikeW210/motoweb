@@ -1,0 +1,70 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url("../imgs/mototapeta.jpeg");
+    background-size: cover;
+    background-position: center ;
+    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.row{
+    max-width: 95%;
+    margin: auto;
+    height: 200px;
+}
+
+.logo img {
+    width: 5%;
+    height: auto;
+    float: left;
+}
+
+.main-nav{
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+    margin-right: 5%;
+
+}
+
+.main-nav li {
+    display: inline-block;
+}
+
+.main-nav li a{
+    color: white;
+    text-decoration: none;
+    padding:5px 25px;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+}
+
+.main-nav li a:hover{
+    border: 1px solid white;
+}
+
+
+
+
+
+.menuv2{
+    list-style: none;
+}
+
+.menuv2 li {
+    display: inline-block;
+    padding: 10px;
+    color:white;
+    font-size: 22px;
+    text-align: center;
+}
+
+.menuv2 li a:hover{
+    background-color:red;
+}
+

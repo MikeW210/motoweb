@@ -1,0 +1,21 @@
+
+
+table{
+
+    margin: auto;
+    text-align: center;
+
+}
+
+table, tr,th{
+    padding: 10px;
+    height: 50px;
+    color: white;
+    border: 1px solid #0808;
+    border-collapse: collapse;
+    font-size: 18px;
+    font-family: sans-serif,Arial;
+    background: linear-gradient(top,#3c3c3c 0%,#222222 100%);
+    background: -webkit-linear-gradient(top,#3c3c3c 0%,#222222 100%);
+}
+

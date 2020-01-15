@@ -1,0 +1,23 @@
+.motoposttitle{
+    text-align: center;
+    color: white;;
+}
+
+
+.menu{
+    width:59%;
+    height:auto;
+    border-radius: 8px;
+    background-color: rgba(0,0,0,0.6);
+    padding: 40px;
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+
+}
+
+.motoimg{
+    width: 20%;
+    height: 20%;
+}
